@@ -24,6 +24,16 @@
       "name": "paul",
       "age": 12,
       "id": 5
+    },
+    {
+      "name": "Ben",
+      "age": 17,
+      "id": 6
+    },
+    {
+      "name": "Sandra",
+      "age": 38,
+      "id": 7
     }
   ]
 }
